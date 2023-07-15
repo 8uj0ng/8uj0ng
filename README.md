@@ -10,7 +10,7 @@
 ## :computer: Github Analytics
 
 ## :owl: Contact
-[![instagram Badge](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&logoColor=white&link=https://www.instagram.com/_8uj0ng/)](https://www.instagram.com/_8uj0ng/) <a href="mailto:8uj0ngj@gmail.com"><img src="https://img.shields.io/badge/gmail-005FF9?style=flat-square&logo=gmail&logoColor=white&link=mailto:8uj0ngj@gmail.com"/></a>
+[![instagram Badge](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&logoColor=white&link=https://www.instagram.com/_8uj0ng/)](https://www.instagram.com/_8uj0ng/) <a href="mailto:8uj0ngj@gmail.com"><img src="https://img.shields.io/badge/gmail-005FF9?style=flat-square&logo=gmail&logoColor=white&link=mailto:8uj0ngj@gmail.com"/></a> [![github Badge](https://img.shields.io/badge/-github-black?logo=instagram&logoColor=white&link=https://8uj0ng.github.io)](https://8uj0ng.github.io)
 <!--
 **8uj0ng/8uj0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
