@@ -10,7 +10,7 @@
 ## :computer: Github Analytics
 
 ## :owl: Contact
-[![instagram Badge](https://img.shields.io/badge/-instagram-white?logo=instagram&logoColor=E4405F&link=https://www.instagram.com/_8uj0ng/)](https://www.instagram.com/_8uj0ng/)
+[![instagram Badge](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&logoColor=white&link=https://www.instagram.com/_8uj0ng/)](https://www.instagram.com/_8uj0ng/)
 <!--
 **8uj0ng/8uj0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
