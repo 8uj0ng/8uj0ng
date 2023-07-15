@@ -5,7 +5,7 @@
 - 🔭 Current working : Please Contact ME :pleading_face:
 
 ## :man_juggling: Technical Skills
-<img src="https://img.shields.io/badge/java-{#FF9E0F}?style={스타일}&logo={로고이름}&logoColor={#FF9E0F}"/>
+<img src="https://img.shields.io/badge/java-#FF9E0F?style={스타일}&logo={로고이름}&logoColor={#FF9E0F}"/>
 
 ## :computer: Github Analytics
 
