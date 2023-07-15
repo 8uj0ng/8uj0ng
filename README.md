@@ -1,16 +1,16 @@
-# :man_technologist:성장하는 개발자 "정수종(JEONGSUJONG)" 입니다. :facepunch:
+## :man_technologist:성장하는 개발자 "정수종(JEONGSUJONG)" 입니다. :facepunch:
 - 해적처럼 용감하게 도전하며, 끊임없이 성장할 것을 약속합니다.
 - 나의 성장을 기록하고 있는 될 보물 창고 → [![github Badge](https://img.shields.io/badge/-github-black?logo=github&logoColor=white&link=https://8uj0ng.github.io)](https://8uj0ng.github.io)
 - 🌱 Current Interest : Algorithm, JavaScript, HTML, CSS, Node.js
 - 🔭 Current working : Please Contact ME :pleading_face:
 
-# :man_juggling: Technical Skills
+## :man_juggling: Technical Skills
 <img src="https://img.shields.io/badge/Java-blue?style=flat&&logoColor=blue"/>
 
-# :computer: Github Analytics
+## :computer: Github Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8uj0ng&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8uj0ng&layout=compact&theme=vue)
 
-# :owl: Contact
+## :owl: Contact
 [![instagram Badge](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&logoColor=white&link=https://www.instagram.com/_8uj0ng/)](https://www.instagram.com/_8uj0ng/) <a href="mailto:8uj0ngj@gmail.com"><img src="https://img.shields.io/badge/gmail-005FF9?style=flat-square&logo=gmail&logoColor=white&link=mailto:8uj0ngj@gmail.com"/></a> [![github Badge](https://img.shields.io/badge/-github-black?logo=github&logoColor=white&link=https://8uj0ng.github.io)](https://8uj0ng.github.io)
 <!--
 **8uj0ng/8uj0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
