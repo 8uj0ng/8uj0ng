@@ -1,4 +1,4 @@
-## :man_technologist:성장하는 개발자 "정수종(JEONGSUJONG)" 입니다. :facepunch: ![MuaKissGIF](https://github.com/8uj0ng/8uj0ng/assets/139039150/1a5fa6e7-61fe-412e-9da6-492fc2b31efb)
+## :man_technologist:성장하는 개발자 "정수종(JEONGSUJONG)" 입니다. :facepunch: 
 
 - 해적처럼 용감하게 도전하며, 끊임없이 성장할 것을 약속합니다.
 - 나의 성장을 기록하고 있는 될 보물 창고 → [![github Badge](https://img.shields.io/badge/-github-black?logo=github&logoColor=white&link=https://8uj0ng.github.io)](https://8uj0ng.github.io)
