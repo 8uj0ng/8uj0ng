@@ -1,6 +1,6 @@
 ## :man_technologist:성장하는 개발자 "정수종(JEONGSUJONG)" 입니다. :facepunch:
 - 해적처럼 용감하게 도전하며, 지속적인 성장을 추구할 것이다.
-- 나의 성장을 기록하고 있는 될 보물 창고  :arrow_right: <img src="https://img.shields.io/badge/Github.blog-#222222?style=for-the-badge&logo=GitHub&logoColor=white">
+- 나의 성장을 기록하고 있는 될 보물 창고  :arrow_right: <img src="[https://img.shields.io/badge](https://8uj0ng.github.io/)/Github.blog-#222222?style=for-the-badge&logo=GitHub&logoColor=white">
 - 🌱 Current Interest : JavaScript, HTML, CSS, Node.js
 - 🔭 Current working : Please Contact ME :pleading_face:
 
