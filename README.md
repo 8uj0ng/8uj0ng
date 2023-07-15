@@ -1,4 +1,4 @@
-### Hi there 👋
+### :man_technologist:성장하는 개발자 "정수종(JEONGSUJONG)" 입니다.
 
 <!--
 **8uj0ng/8uj0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
