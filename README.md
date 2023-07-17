@@ -1,7 +1,7 @@
 ## :man_technologist:성장하는 개발자 "정수종(JEONGSUJONG)" 입니다. :facepunch: 
 
 - 해적처럼 용감하게 도전하며, 끊임없이 성장할 것을 약속합니다.
-- "같은 문제로 같은 실수를 반복할 순 없다! 문제 해결과 학습 기록을 통한 성장의 흔적을 만나보세요."  →  [![github Badge](https://img.shields.io/badge/-github-black?logo=github&logoColor=white&link=https://mr5u.github.io)](https://mr5u.github.io)
+- "같은 문제로 같은 실수를 반복할 순 없다! 문제 해결과 학습 기록을 통한 성장의 흔적을 만나보세요."  → ⭐블로그 이사⭐ → [![github Badge](https://img.shields.io/badge/-github-black?logo=github&logoColor=white&link=https://mr5u.github.io)](https://mr5u.github.io)
 - 🌱 Current Interest : Algorithm, JavaScript, HTML, CSS, Node.js
 - 🔭 Current working : Please Contact ME :pleading_face:
 
